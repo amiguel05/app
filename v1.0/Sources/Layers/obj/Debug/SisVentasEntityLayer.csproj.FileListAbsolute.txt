@@ -1,0 +1,5 @@
+C:\ventas\v1.0\Sources\Layers\bin\Debug\SisVentasEntityLayer.dll
+C:\ventas\v1.0\Sources\Layers\bin\Debug\SisVentasEntityLayer.pdb
+C:\ventas\v1.0\Sources\Layers\obj\Debug\SisVentasEntityLayer.csprojResolveAssemblyReference.cache
+C:\ventas\v1.0\Sources\Layers\obj\Debug\SisVentasEntityLayer.dll
+C:\ventas\v1.0\Sources\Layers\obj\Debug\SisVentasEntityLayer.pdb

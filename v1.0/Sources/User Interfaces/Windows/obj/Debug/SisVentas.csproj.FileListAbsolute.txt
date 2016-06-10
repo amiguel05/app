@@ -1,0 +1,3 @@
+C:\ventas\v1.0\Sources\User Interfaces\Windows\bin\Debug\SisVentas.exe.config
+C:\ventas\v1.0\Sources\User Interfaces\Windows\obj\Debug\SisVentas.exe
+C:\ventas\v1.0\Sources\User Interfaces\Windows\obj\Debug\SisVentas.pdb
